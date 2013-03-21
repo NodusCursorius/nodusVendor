@@ -1,0 +1,7 @@
+## Interface: 50200
+## Title: nodusVendor
+## Notes: Automatically vendor poor-quality and soulbound items.
+## Author: Nodus Cursorius
+## Version: 1.0
+
+nodusVendor.lua

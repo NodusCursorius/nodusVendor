@@ -1,0 +1,11 @@
+nodusVendor - Automate several vendor functions
+* Sell poor quality items
+* Sell Soulbound items
+* Ignore player backpack (bag 0) for all functions
+* Report total profit from items sold
+
+Goals:
+* A primary focus of being as fast and lightweight as computationally possible
+* A secondary focus on memory usage, but not at the cost of the speed
+* A tertiary focus on code elegance, but not at the cost of memory or speed
+* Lua introduction and programming reintroduction
